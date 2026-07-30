@@ -1,0 +1,6 @@
+{
+  "name": "Hardware Factory ERP",
+  "description": "Comprehensive ERP system for hardware manufacturing with Dual Inventory (Finished Products & Components) and 12-stage Part-Level Production Flow tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
